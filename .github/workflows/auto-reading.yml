@@ -63,7 +63,7 @@ jobs:
           use_curl_data_first: true
           fallback_to_config: true
           smart_random:
-            book_continuity: 0.8
+            book_continuity: 0.3
             chapter_continuity: 0.7
             book_switch_cooldown: 3600
 
